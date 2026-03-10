@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+checkpoints/
+data/
+datasets/
+temp_uploads/
+videos/
+images/
+audios/
+*.pyc
+__pycache__
+.env
